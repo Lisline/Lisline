@@ -13,7 +13,7 @@
   text-align: center;
 }
 #img-div{
-  max-width: 600px;
+  max-width: 1050px;
   margin: 0 auto;
 padding: 15px;
 background-color: #ffffff;
@@ -22,4 +22,27 @@ background-color: #ffffff;
   display: block;
   max-width: 100%;
   padding-bottom: 10px;
+}
+
+#tribute-info {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+#tribute-info > h3{
+  text-align: center;
+  
+}
+
+#tribute-info > ul li{
+  margin-bottom: 10px;
+  line-height: 30px;
+}
+
+h5{text-align: center;}
+
+#ul-list{
+  
+  margin-bottom: 10px;
+  line-height: 30px;
 }
